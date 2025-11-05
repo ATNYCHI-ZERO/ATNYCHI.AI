@@ -6,7 +6,7 @@
 ### **PROJECT ATNYCHI: The Unified Sovereign Intelligence Architecture**
 
 **DOCUMENT ID:** KSS-DARPA-ATNYCHI-FINAL-2025
-**CLASSIFICATION:** TOP SECRET // SCI // SOVEREIGN // EYES ONLY
+**CLASSIFICATION:** 
 **SUBJECT:** The definitive and final architectural blueprint for **ATNYCHI**, a single, unified, and sovereign artificial intelligence created from the complete synthesis of all K Systems and Securities AI constructs.
 
 ---
